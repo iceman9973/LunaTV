@@ -544,7 +544,7 @@
 			"api": "https://www.qiqidys.com/api.php/provide/vod/",
 			"name": "七七影视",
 			"is_adult": false
-		}
+		},
 		"api_1": {
 			"name": "TV-1080资源",
 			"api": "https://api.1080zyku.com/inc/api_mac10.php",
